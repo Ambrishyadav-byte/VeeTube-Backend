@@ -1,0 +1,24 @@
+{
+  "name": "veetube-backend",
+  "version": "1.0.0",
+  "description": "Backend of Youtube clone",
+  "homepage": "https://github.com/Ambrishyadav-byte/VeeTube-Backend#readme",
+  "bugs": {
+    "url": "https://github.com/Ambrishyadav-byte/VeeTube-Backend/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ambrishyadav-byte/VeeTube-Backend.git"
+  },
+  "license": "ISC",
+  "author": "Ambrish yadav",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9",
+    "prettier": "^3.5.3"
+  }
+}
